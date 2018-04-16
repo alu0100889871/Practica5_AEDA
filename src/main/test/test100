@@ -1,0 +1,10 @@
+Introduce el tamaño de la secuencia a ordenar: 100
+Introduce el número de pruebas: 100
+                                        Número de Comparaciones
+                                Mínimo          Máximo          Medio
+Inserción                       99              99              99
+Burbuja                         6831            9900            8877
+ShellSort                       503             503             503
+QuickSort                       349             651             479
+Selección                       4950            4950            4950
+HeapSort                        964             1015            995
